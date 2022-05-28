@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Francoise02/Aviation-Frequency-Propagation-Simulator-Frontend/issues"
   },
-  "homepage": "https://github.com/Francoise02/Aviation-Frequency-Propagation-Simulator-Frontend#readme"
+  "homepage": "https://github.com/Francoise02/Aviation-Frequency-Propagation-Simulator-Frontend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
